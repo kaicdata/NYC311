@@ -1,0 +1,547 @@
+Complaint_Type1,Complaint_Type2,NPMI,PMI
+PAINT - PLASTER,GENERAL CONSTRUCTION,0.656149753618,4.29878949562
+GENERAL CONSTRUCTION,PAINT - PLASTER,0.656149753618,4.29878949562
+GENERAL CONSTRUCTION,HEATING,0.60633800482,3.4897311124
+HEATING,GENERAL CONSTRUCTION,0.60633800482,3.4897311124
+PAINT - PLASTER,HEATING,0.590389638442,3.51326899493
+HEATING,PAINT - PLASTER,0.590389638442,3.51326899493
+Advocate-Personal Exemptions,OEM Disabled Vehicle,0.58785099277,7.14670393565
+OEM Disabled Vehicle,Advocate-Personal Exemptions,0.58785099277,7.14670393565
+Found Property,Radioactive Material,0.541351195539,6.5813901266
+Radioactive Material,Found Property,0.541351195539,6.5813901266
+NONCONST,GENERAL CONSTRUCTION,0.539189220506,3.86799929305
+GENERAL CONSTRUCTION,NONCONST,0.539189220506,3.86799929305
+HEATING,NONCONST,0.538272357889,3.37863129662
+NONCONST,HEATING,0.538272357889,3.37863129662
+NONCONST,PAINT - PLASTER,0.536440426523,3.93158556117
+PAINT - PLASTER,NONCONST,0.536440426523,3.93158556117
+BEST/Site Safety,Emergency Response Team (ERT),0.478245081828,4.95728754077
+Emergency Response Team (ERT),BEST/Site Safety,0.478245081828,4.95728754077
+Vacant Lot,Fire Alarm - Replacement,0.470595477617,5.72118886138
+Fire Alarm - Replacement,Vacant Lot,0.470595477617,5.72118886138
+LinkNYC,Bus Stop Shelter Placement,0.469028671377,5.70214066641
+Bus Stop Shelter Placement,LinkNYC,0.469028671377,5.70214066641
+Request Xmas Tree Collection,Advocate - Other,0.459975176643,5.59207425972
+Advocate - Other,Request Xmas Tree Collection,0.459975176643,5.59207425972
+Investigations and Discipline (IAD),Open Flame Permit,0.451610532006,5.49038243732
+Open Flame Permit,Investigations and Discipline (IAD),0.451610532006,5.49038243732
+Special Projects Inspection Team (SPIT),Emergency Response Team (ERT),0.438645648243,4.08998724343
+Emergency Response Team (ERT),Special Projects Inspection Team (SPIT),0.438645648243,4.08998724343
+Fire Alarm - Reinspection,Legal Services Provider Complaint,0.431148270363,5.24161578112
+Legal Services Provider Complaint,Fire Alarm - Reinspection,0.431148270363,5.24161578112
+Case Management Agency Complaint,Panhandling,0.426161601761,5.1809911593
+Panhandling,Case Management Agency Complaint,0.426161601761,5.1809911593
+Mosquitoes,Taxpayer Advocate Inquiry,0.426161601761,5.1809911593
+Taxpayer Advocate Inquiry,Mosquitoes,0.426161601761,5.1809911593
+Water Quality,Hazmat Storage/Use,0.418468630771,5.08746510129
+Hazmat Storage/Use,Water Quality,0.418468630771,5.08746510129
+Sprinkler - Mechanical,Recycling Enforcement,0.414375505736,5.03770359173
+Recycling Enforcement,Sprinkler - Mechanical,0.414375505736,5.03770359173
+Bike Rack Condition,Adopt-A-Basket,0.410096511479,4.98568240698
+Adopt-A-Basket,Bike Rack Condition,0.410096511479,4.98568240698
+Open Flame Permit,Asbestos,0.406204791788,4.65680974436
+Asbestos,Open Flame Permit,0.406204791788,4.65680974436
+Indoor Air Quality,Building Condition,0.40477606111,4.920999887
+Building Condition,Indoor Air Quality,0.40477606111,4.920999887
+Electronics Waste,Advocate-Property Value,0.40342518367,4.9045768117
+Advocate-Property Value,Electronics Waste,0.40342518367,4.9045768117
+For Hire Vehicle Report,Municipal Parking Facility,0.394805387769,4.79978302884
+Municipal Parking Facility,For Hire Vehicle Report,0.394805387769,4.79978302884
+DOF Property - Request Copy,SRDE,0.387867148608,4.7154325017
+SRDE,DOF Property - Request Copy,0.387867148608,4.7154325017
+GENERAL CONSTRUCTION,CONSTRUCTION,0.387478641999,4.01644076914
+CONSTRUCTION,GENERAL CONSTRUCTION,0.387478641999,4.01644076914
+Calorie Labeling,Street Sign - Dangling,0.386243959209,4.69569883754
+Street Sign - Dangling,Calorie Labeling,0.386243959209,4.69569883754
+Tanning,Standing Water,0.384930855191,4.67973498655
+Standing Water,Tanning,0.384930855191,4.67973498655
+DOF Parking - Tax Exemption,Home Care Provider Complaint,0.380979683727,4.63169925471
+Home Care Provider Complaint,DOF Parking - Tax Exemption,0.380979683727,4.63169925471
+Senior Center Complaint,Advocate-Personal Exemptions,0.37793285983,4.59465798303
+Advocate-Personal Exemptions,Senior Center Complaint,0.37793285983,4.59465798303
+NONCONST,CONSTRUCTION,0.373339829573,4.02126005558
+CONSTRUCTION,NONCONST,0.373339829573,4.02126005558
+Smoking,Lifeguard,0.366799837958,4.45931005948
+Lifeguard,Smoking,0.366799837958,4.45931005948
+Stalled Sites,School Maintenance,0.366204863642,4.45207675488
+School Maintenance,Stalled Sites,0.366204863642,4.45207675488
+HEATING,CONSTRUCTION,0.36534369384,3.47744426841
+CONSTRUCTION,HEATING,0.36534369384,3.47744426841
+Advocate-UBT,Air Quality,0.364336603918,4.42936368764
+Air Quality,Advocate-UBT,0.364336603918,4.42936368764
+Special Natural Area District (SNAD),Day Care,0.364300392233,4.42892344991
+Day Care,Special Natural Area District (SNAD),0.364300392233,4.42892344991
+Public Assembly,Drug Activity,0.363471893294,4.41885110726
+Drug Activity,Public Assembly,0.363471893294,4.41885110726
+Advocate-Property Value,Special Enforcement,0.359450133017,4.36995720327
+Special Enforcement,Tanning,0.359450133017,4.36995720327
+Special Enforcement,Advocate-Property Value,0.359450133017,4.36995720327
+Tanning,Special Enforcement,0.359450133017,4.36995720327
+Bereavement Support Group,Industrial Waste,0.357560685268,4.34698654603
+Industrial Waste,Bereavement Support Group,0.357560685268,4.34698654603
+Overflowing Recycling Baskets,DOF Parking - Tax Exemption,0.351641443081,4.27502431077
+DOF Parking - Tax Exemption,Overflowing Recycling Baskets,0.351641443081,4.27502431077
+Food Establishment,Advocate-UBT,0.346585421173,4.21355653729
+Advocate-UBT,Food Establishment,0.346585421173,4.21355653729
+Animal in a Park,OEM Disabled Vehicle,0.345656633995,4.20226495649
+OEM Disabled Vehicle,Animal in a Park,0.345656633995,4.20226495649
+Public Assembly - Temporary,DOF Property - Payment Issue,0.345024122492,4.19457529958
+DOF Property - Payment Issue,Public Assembly - Temporary,0.345024122492,4.19457529958
+Foam Ban Enforcement,Construction,0.344538673317,4.18867352928
+Construction,Foam Ban Enforcement,0.344538673317,4.18867352928
+X-Ray Machine/Equipment,Taxi Report,0.34254162064,4.16439468243
+Taxi Report,X-Ray Machine/Equipment,0.34254162064,4.16439468243
+Unsanitary Animal Facility,Mold,0.335514297087,4.07896112612
+Mold,Unsanitary Animal Facility,0.335514297087,4.07896112612
+Advocate-SCRIE/DRIE,DOF Property - Owner Issue,0.335259559069,4.07586418961
+DOF Property - Owner Issue,Advocate-SCRIE/DRIE,0.335259559069,4.07586418961
+DPR Internal,Pet Shop,0.334550461224,4.06724344657
+Pet Shop,DPR Internal,0.334550461224,4.06724344657
+Radioactive Material,Fire Safety Director - F58,0.331530233125,4.03052550902
+Fire Safety Director - F58,Radioactive Material,0.331530233125,4.03052550902
+Emergency Response Team (ERT),Broken Parking Meter,0.329460393273,3.77699722108
+Broken Parking Meter,Emergency Response Team (ERT),0.329460393273,3.77699722108
+Tattooing,Broken Parking Meter,0.328312554005,3.99140709243
+Broken Parking Meter,Tattooing,0.328312554005,3.99140709243
+Unsanitary Pigeon Condition,Home Delivered Meal Complaint,0.325758064956,3.96035130249
+Home Delivered Meal Complaint,Unsanitary Pigeon Condition,0.325758064956,3.96035130249
+Advocate - RPIE,Other Enforcement,0.325306114145,3.95485678317
+Other Enforcement,Advocate - RPIE,0.325306114145,3.95485678317
+Homeless Encampment,Radioactive Material,0.323017097442,3.92702843062
+Radioactive Material,Homeless Encampment,0.323017097442,3.92702843062
+Construction,Rangehood,0.320875430315,3.90099145683
+Rangehood,Construction,0.320875430315,3.90099145683
+Plumbing,Interior Demo,0.319920078803,3.88937692441
+Plumbing,Trans Fat,0.319920078803,3.88937692441
+Trans Fat,Plumbing,0.319920078803,3.88937692441
+Interior Demo,Plumbing,0.319920078803,3.88937692441
+Literature Request,Water Quality,0.31943603971,3.88349229697
+Water Quality,Literature Request,0.31943603971,3.88349229697
+Noise - Helicopter,Miscellaneous Categories,0.31910098898,3.87941897158
+Miscellaneous Categories,Noise - Helicopter,0.31910098898,3.87941897158
+Water Conservation,Radioactive Material,0.318975695977,3.87789574204
+Radioactive Material,Water Conservation,0.318975695977,3.87789574204
+Harboring Bees/Wasps,Senior Center Complaint,0.314587730839,3.82454976133
+Senior Center Complaint,Harboring Bees/Wasps,0.314587730839,3.82454976133
+Dead/Dying Tree,Trans Fat,0.314528405312,3.82382852077
+Trans Fat,Dead/Dying Tree,0.314528405312,3.82382852077
+Special Projects Inspection Team (SPIT),BEST/Site Safety,0.314145203705,2.99012260644
+BEST/Site Safety,Special Projects Inspection Team (SPIT),0.314145203705,2.99012260644
+For Hire Vehicle Complaint,Interior Demo,0.312594287177,3.80031479049
+Interior Demo,For Hire Vehicle Complaint,0.312594287177,3.80031479049
+Advocate - RPIE,Air Quality,0.307321893095,3.73621650709
+Air Quality,Advocate - RPIE,0.307321893095,3.73621650709
+Illegal Tree Damage,Sprinkler - Mechanical,0.306780384618,3.72963320484
+Sprinkler - Mechanical,Illegal Tree Damage,0.306780384618,3.72963320484
+Advocate - Other,Electrical,0.304772118722,3.70521803508
+Electrical,Advocate - Other,0.304772118722,3.70521803508
+Adopt-A-Basket,Broken Parking Meter,0.303760060823,3.69291410387
+Broken Parking Meter,Adopt-A-Basket,0.303760060823,3.69291410387
+Radioactive Material,Sidewalk Condition,0.303656072389,3.6916498812
+Sidewalk Condition,Radioactive Material,0.303656072389,3.6916498812
+Special Projects Inspection Team (SPIT),Advocate - Other,0.303552215253,3.69038725477
+Advocate - Other,Special Projects Inspection Team (SPIT),0.303552215253,3.69038725477
+ATF,Unsanitary Animal Pvt Property,0.300737211398,3.4477091478
+Unsanitary Animal Pvt Property,ATF,0.300737211398,3.4477091478
+Drinking Water,Mold,0.299551345149,3.6417473197
+Mold,Drinking Water,0.299551345149,3.6417473197
+Public Toilet,Indoor Sewage,0.299124046315,3.63655250282
+Indoor Sewage,Public Toilet,0.299124046315,3.63655250282
+Tanning,Root/Sewer/Sidewalk Condition,0.298796858769,3.63257477284
+Root/Sewer/Sidewalk Condition,Tanning,0.298796858769,3.63257477284
+Public Toilet,OUTSIDE BUILDING,0.296605844327,3.605937867
+OUTSIDE BUILDING,Public Toilet,0.296605844327,3.605937867
+Alzheimer's Care,Disorderly Youth,0.296193538498,3.60092532518
+Disorderly Youth,Alzheimer's Care,0.296193538498,3.60092532518
+Snow,HEATING,0.295932436182,1.87104125967
+HEATING,Snow,0.295932436182,1.87104125967
+Investigations and Discipline (IAD),Bike Rack Condition,0.291550002947,3.54447228827
+Bike Rack Condition,Investigations and Discipline (IAD),0.291550002947,3.54447228827
+Electrical,Bottled Water,0.289775288137,3.52289647828
+Bottled Water,Electrical,0.289775288137,3.52289647828
+Advocate-Prop Refunds/Credits,Damaged Tree,0.288382580317,3.50596485687
+Damaged Tree,Advocate-Prop Refunds/Credits,0.288382580317,3.50596485687
+ELEVATOR,Home Delivered Meal Complaint,0.288353814854,3.50561514538
+Home Delivered Meal Complaint,ELEVATOR,0.288353814854,3.50561514538
+Posting Advertisement,Bridge Condition,0.288066712153,3.50212474044
+Bridge Condition,Posting Advertisement,0.288066712153,3.50212474044
+Unsanitary Animal Pvt Property,Taxpayer Advocate Inquiry,0.288038056921,3.50177636907
+Taxpayer Advocate Inquiry,Unsanitary Animal Pvt Property,0.288038056921,3.50177636907
+Derelict Vehicles,Transportation Provider Complaint,0.287055515333,3.48983127768
+Derelict Vehicles,Advocate-Commercial Exemptions,0.287055515333,3.48983127768
+Advocate-Commercial Exemptions,Derelict Vehicles,0.287055515333,3.48983127768
+Transportation Provider Complaint,Derelict Vehicles,0.287055515333,3.48983127768
+Overflowing Litter Baskets,ATF,0.286210568606,3.47955897369
+ATF,Overflowing Litter Baskets,0.286210568606,3.47955897369
+Advocate-Commercial Exemptions,Noise - Vehicle,0.286014657019,3.47717721006
+Noise - Vehicle,Advocate-Commercial Exemptions,0.286014657019,3.47717721006
+Non-Emergency Police Matter,OEM Disabled Vehicle,0.285425708206,3.27217513465
+OEM Disabled Vehicle,Non-Emergency Police Matter,0.285425708206,3.27217513465
+SCRIE,Foam Ban Enforcement,0.283319789761,3.44441479463
+Foam Ban Enforcement,SCRIE,0.283319789761,3.44441479463
+Unleashed Dog,Special Natural Area District (SNAD),0.280357365522,3.40839959821
+Special Natural Area District (SNAD),Unleashed Dog,0.280357365522,3.40839959821
+Mosquitoes,Plant,0.280318230715,3.40792382309
+Plant,Mosquitoes,0.280318230715,3.40792382309
+Highway Sign - Damaged,APPLIANCE,0.279837092816,3.40207446644
+APPLIANCE,Highway Sign - Damaged,0.279837092816,3.40207446644
+Traffic Signal Condition,SRDE,0.279397433763,3.39672938218
+SRDE,Traffic Signal Condition,0.279397433763,3.39672938218
+Lifeguard,DOF Property - Owner Issue,0.278244848246,3.38271700905
+City Vehicle Placard Complaint,Fire Alarm - Reinspection,0.278244848246,3.38271700905
+DOF Property - Owner Issue,Lifeguard,0.278244848246,3.38271700905
+Fire Alarm - Reinspection,City Vehicle Placard Complaint,0.278244848246,3.38271700905
+Laboratory,FLOORING/STAIRS,0.277876873798,3.37824341887
+FLOORING/STAIRS,Laboratory,0.277876873798,3.37824341887
+Posting Advertisement,Poison Ivy,0.276832713296,3.36554920543
+Poison Ivy,Posting Advertisement,0.276832713296,3.36554920543
+Pet Shop,Special Projects Inspection Team (SPIT),0.275875745076,3.35391501815
+Special Projects Inspection Team (SPIT),Pet Shop,0.275875745076,3.35391501815
+Snow,GENERAL CONSTRUCTION,0.275113802453,2.06691578287
+GENERAL CONSTRUCTION,Snow,0.275113802453,2.06691578287
+Posting Advertisement,Drinking Water,0.275100968479,3.34449579623
+Drinking Water,Posting Advertisement,0.275100968479,3.34449579623
+Construction,Home Care Provider Complaint,0.274844322903,3.3413756689
+Home Care Provider Complaint,Construction,0.274844322903,3.3413756689
+Fire Safety Director - F58,Open Flame Permit,0.274515522303,3.33737832846
+Open Flame Permit,Fire Safety Director - F58,0.274515522303,3.33737832846
+Advocate-SCRIE/DRIE,Graffiti,0.273741353383,3.32796649428
+Graffiti,Advocate-SCRIE/DRIE,0.273741353383,3.32796649428
+X-Ray Machine/Equipment,Traffic,0.273345001628,3.32314791155
+Traffic,X-Ray Machine/Equipment,0.273345001628,3.32314791155
+Snow,PAINT - PLASTER,0.272069781535,2.09575133251
+PAINT - PLASTER,Snow,0.272069781535,2.09575133251
+Hazmat Storage/Use,SAFETY,0.271614005675,3.30210360654
+SAFETY,Hazmat Storage/Use,0.271614005675,3.30210360654
+Open Flame Permit,Vending,0.271087741304,3.29570563206
+Vending,Open Flame Permit,0.271087741304,3.29570563206
+GENERAL,Transportation Provider Complaint,0.271041124788,3.29513889926
+Transportation Provider Complaint,GENERAL,0.271041124788,3.29513889926
+DOF Property - City Rebate,Standing Water,0.270901433545,3.29344062543
+Standing Water,DOF Property - City Rebate,0.270901433545,3.29344062543
+EAP Inspection - F59,Fire Alarm - Modification,0.270878174718,3.29315785999
+Fire Alarm - Modification,EAP Inspection - F59,0.270878174718,3.29315785999
+Overflowing Recycling Baskets,Litter Basket / Request,0.27046063656,3.28808170695
+Litter Basket / Request,Overflowing Recycling Baskets,0.27046063656,3.28808170695
+DOF Property - Update Account,Taxpayer Advocate Inquiry,0.27046063656,3.28808170695
+Taxpayer Advocate Inquiry,DOF Property - Update Account,0.27046063656,3.28808170695
+Homeless Person Assistance,LinkNYC,0.269764906346,2.84545361101
+LinkNYC,Homeless Person Assistance,0.269764906346,2.84545361101
+FLOORING/STAIRS,PAINT/PLASTER,0.269013874473,1.2523006757
+PAINT/PLASTER,FLOORING/STAIRS,0.269013874473,1.2523006757
+Building/Use,Advocate-Commercial Exemptions,0.268845386199,3.26844456038
+Advocate-Commercial Exemptions,Building/Use,0.268845386199,3.26844456038
+Other Enforcement,Lifeguard,0.268291403322,3.26170960261
+Lifeguard,Other Enforcement,0.268291403322,3.26170960261
+Scaffold Safety,Bike/Roller/Skate Chronic,0.266596286965,3.24110149803
+Bike/Roller/Skate Chronic,Scaffold Safety,0.266596286965,3.24110149803
+Public Toilet,Violation of Park Rules,0.266342804976,3.23801983149
+Violation of Park Rules,Public Toilet,0.266342804976,3.23801983149
+Sprinkler - Mechanical,Homeless Encampment,0.266002386619,3.23388125006
+Street Sign - Missing,Open Flame Permit,0.266002386619,3.23388125006
+Open Flame Permit,Street Sign - Missing,0.266002386619,3.23388125006
+Homeless Encampment,Sprinkler - Mechanical,0.266002386619,3.23388125006
+PAINT - PLASTER,PLUMBING,0.265751216789,1.71415619602
+PLUMBING,PAINT - PLASTER,0.265751216789,1.71415619602
+Recycling Enforcement,Fire Alarm - New System,0.264740918016,3.21854514832
+Fire Alarm - New System,Recycling Enforcement,0.264740918016,3.21854514832
+Stalled Sites,Sidewalk Condition,0.261638192151,3.18082425744
+Sidewalk Condition,Stalled Sites,0.261638192151,3.18082425744
+Beach/Pool/Sauna Complaint,Posting Advertisement,0.260965452995,3.17264553931
+Posting Advertisement,Beach/Pool/Sauna Complaint,0.260965452995,3.17264553931
+Broken Parking Meter,Plant,0.259646402486,3.15660939481
+Plant,Broken Parking Meter,0.259646402486,3.15660939481
+PLUMBING,GENERAL CONSTRUCTION,0.258435892229,1.63171119577
+GENERAL CONSTRUCTION,PLUMBING,0.258435892229,1.63171119577
+SRDE,Rodent,0.25695222582,3.12385537514
+Rodent,SRDE,0.25695222582,3.12385537514
+WATER LEAK,PAINT/PLASTER,0.256916473764,1.15288113548
+PAINT/PLASTER,WATER LEAK,0.256916473764,1.15288113548
+Fire Safety Director - F58,EAP Inspection - F59,0.256754002181,2.39400663799
+EAP Inspection - F59,Fire Safety Director - F58,0.256754002181,2.39400663799
+Unsanitary Animal Facility,Noise - House of Worship,0.254935266715,3.09933451908
+Noise - House of Worship,Unsanitary Animal Facility,0.254935266715,3.09933451908
+PAINT/PLASTER,UNSANITARY CONDITION,0.252057102195,0.981642003374
+UNSANITARY CONDITION,PAINT/PLASTER,0.252057102195,0.981642003374
+Mold,Recycling Enforcement,0.251061682326,2.87821934238
+Recycling Enforcement,Mold,0.251061682326,2.87821934238
+Miscellaneous Categories,PAINT - PLASTER,0.250852279301,3.04969625601
+Legal Services Provider Complaint,PAINT - PLASTER,0.250852279301,3.04969625601
+PAINT - PLASTER,Miscellaneous Categories,0.250852279301,3.04969625601
+PAINT - PLASTER,Legal Services Provider Complaint,0.250852279301,3.04969625601
+ATF,Animal in a Park,0.250843164686,3.04958544655
+Animal in a Park,ATF,0.250843164686,3.04958544655
+Sewer,Laboratory,0.250834051081,3.04947464936
+Laboratory,Sewer,0.250834051081,3.04947464936
+Standpipe - Mechanical,Air Quality,0.250307182272,3.04306932653
+Air Quality,Standpipe - Mechanical,0.250307182272,3.04306932653
+Tattooing,OUTSIDE BUILDING,0.24967576796,3.03539300854
+OUTSIDE BUILDING,Tattooing,0.24967576796,3.03539300854
+Bottled Water,Maintenance or Facility,0.249384166646,2.85898798045
+Maintenance or Facility,Bottled Water,0.249384166646,2.85898798045
+DOOR/WINDOW,PAINT/PLASTER,0.24806714006,1.10474940048
+PAINT/PLASTER,DOOR/WINDOW,0.24806714006,1.10474940048
+DRIE,Illegal Animal Kept as Pet,0.24716262339,3.00483985746
+Illegal Animal Kept as Pet,DRIE,0.24716262339,3.00483985746
+Animal Facility - No Permit,Animal in a Park,0.246624042934,2.99829215216
+Animal in a Park,Animal Facility - No Permit,0.246624042934,2.99829215216
+Interior Demo,General Construction/Plumbing,0.246473739666,2.82562228661
+General Construction/Plumbing,Interior Demo,0.246473739666,2.82562228661
+Litter Basket / Request,Special Natural Area District (SNAD),0.245815672453,2.81807807771
+Special Natural Area District (SNAD),Litter Basket / Request,0.245815672453,2.81807807771
+FLOORING/STAIRS,DOOR/WINDOW,0.245491640272,1.2628883994
+DOOR/WINDOW,FLOORING/STAIRS,0.245491640272,1.2628883994
+Dead Tree,Sprinkler - Mechanical,0.244386258963,2.9710866533
+Sprinkler - Mechanical,Dead Tree,0.244386258963,2.9710866533
+Public Assembly - Temporary,Consumer Complaint,0.244217910888,2.96903998865
+Consumer Complaint,Public Assembly - Temporary,0.244217910888,2.96903998865
+Water Quality,Advocate-Personal Exemptions,0.244066691652,2.96720156509
+Advocate-Personal Exemptions,Water Quality,0.244066691652,2.96720156509
+Public Assembly,Street Sign - Dangling,0.243564625959,2.96109778215
+Street Sign - Dangling,Public Assembly,0.243564625959,2.96109778215
+For Hire Vehicle Report,OUTSIDE BUILDING,0.24275235737,2.68453203446
+OUTSIDE BUILDING,For Hire Vehicle Report,0.24275235737,2.68453203446
+Violation of Park Rules,Bridge Condition,0.242716127824,2.78254430281
+Bridge Condition,Violation of Park Rules,0.242716127824,2.78254430281
+Mosquitoes,Fire Alarm - Reinspection,0.242437829701,2.9473989378
+Fire Alarm - Reinspection,Mosquitoes,0.242437829701,2.9473989378
+Bus Stop Shelter Placement,Elder Abuse,0.240969828086,2.92955194417
+Elder Abuse,Bus Stop Shelter Placement,0.240969828086,2.92955194417
+DOF Property - RPIE Issue,Bike/Roller/Skate Chronic,0.24067934571,2.92602045139
+Bike/Roller/Skate Chronic,DOF Property - RPIE Issue,0.24067934571,2.92602045139
+DOF Property - Request Copy,Bereavement Support Group,0.240486259141,2.92367303247
+Bereavement Support Group,DOF Property - Request Copy,0.240486259141,2.92367303247
+Cranes and Derricks,BEST/Site Safety,0.238910356228,2.90451424617
+BEST/Site Safety,Cranes and Derricks,0.238910356228,2.90451424617
+Bike/Roller/Skate Chronic,City Vehicle Placard Complaint,0.237410511313,2.88628012274
+City Vehicle Placard Complaint,Bike/Roller/Skate Chronic,0.237410511313,2.88628012274
+HEATING,Non-Residential Heat,0.237146558474,1.95534836613
+Non-Residential Heat,HEATING,0.237146558474,1.95534836613
+Public Assembly,Homeless Person Assistance,0.236743484947,2.49714691674
+Homeless Person Assistance,Public Assembly,0.236743484947,2.49714691674
+Bridge Condition,EAP Inspection - F59,0.236517432388,2.87542265929
+EAP Inspection - F59,Bridge Condition,0.236517432388,2.87542265929
+Hazardous Materials,Public Toilet,0.23605165762,2.86976007743
+Public Toilet,Hazardous Materials,0.23605165762,2.86976007743
+Special Enforcement,Case Management Agency Complaint,0.235732486552,2.86587980649
+Case Management Agency Complaint,Special Enforcement,0.235732486552,2.86587980649
+PLUMBING,PAINT/PLASTER,0.235305237377,0.982702785113
+PAINT/PLASTER,PLUMBING,0.235305237377,0.982702785113
+Trans Fat,Maintenance or Facility,0.2351656005,2.85898798045
+Maintenance or Facility,Trans Fat,0.2351656005,2.85898798045
+UNSANITARY CONDITION,FLOORING/STAIRS,0.235081963912,1.0897177368
+FLOORING/STAIRS,UNSANITARY CONDITION,0.235081963912,1.0897177368
+Electronics Waste,Request Xmas Tree Collection,0.234782468527,2.43365640388
+Request Xmas Tree Collection,Electronics Waste,0.234782468527,2.43365640388
+Recycling Enforcement,Harboring Bees/Wasps,0.233643148449,2.8404790144
+Harboring Bees/Wasps,Recycling Enforcement,0.233643148449,2.8404790144
+Miscellaneous Categories,GENERAL CONSTRUCTION,0.232848409507,2.83081710348
+GENERAL CONSTRUCTION,Miscellaneous Categories,0.232848409507,2.83081710348
+General Construction/Plumbing,Emergency Response Team (ERT),0.23146621021,2.13247510605
+Emergency Response Team (ERT),General Construction/Plumbing,0.23146621021,2.13247510605
+Advocate - RPIE,Derelict Vehicles,0.23004080451,2.79668409712
+Derelict Vehicles,Advocate - RPIE,0.23004080451,2.79668409712
+Homeless Encampment,Homeless Person Assistance,0.229500796456,1.63264895481
+Homeless Person Assistance,Homeless Encampment,0.229500796456,1.63264895481
+Advocate-Property Value,Noise - Vehicle,0.228999946196,2.7840300295
+Noise - Vehicle,Advocate-Property Value,0.228999946196,2.7840300295
+Senior Center Complaint,Broken Parking Meter,0.228923108413,2.7830958865
+Broken Parking Meter,Senior Center Complaint,0.228923108413,2.7830958865
+Vacant Lot,ATF,0.228401118842,2.77674988221
+ATF,Vacant Lot,0.228401118842,2.77674988221
+For Hire Vehicle Report,Public Payphone Complaint,0.228387244364,2.77658120548
+Public Payphone Complaint,For Hire Vehicle Report,0.228387244364,2.77658120548
+Broken Parking Meter,Broken Muni Meter,0.228195072041,1.96293199434
+Broken Muni Meter,Broken Parking Meter,0.228195072041,1.96293199434
+Disorderly Youth,Mosquitoes,0.22809641964,2.77304555065
+Mosquitoes,Disorderly Youth,0.22809641964,2.77304555065
+Street Sign - Damaged,Street Sign - Missing,0.228016990555,1.82378389959
+Street Sign - Missing,Street Sign - Damaged,0.228016990555,1.82378389959
+PAINT - PLASTER,Municipal Parking Facility,0.227189036298,2.76201418356
+Municipal Parking Facility,PAINT - PLASTER,0.227189036298,2.76201418356
+Curb Condition,Tattooing,0.226582841296,2.75464446528
+Tattooing,Curb Condition,0.226582841296,2.75464446528
+Recycling Enforcement,Bike/Roller/Skate Chronic,0.226388091304,2.59535655636
+Bike/Roller/Skate Chronic,Recycling Enforcement,0.226388091304,2.59535655636
+Litter Basket / Request,Collection Truck Noise,0.226351278421,2.59493452639
+Collection Truck Noise,Litter Basket / Request,0.226351278421,2.59493452639
+GENERAL CONSTRUCTION,Request Xmas Tree Collection,0.225806478849,2.30580684473
+Request Xmas Tree Collection,GENERAL CONSTRUCTION,0.225806478849,2.30580684473
+DOF Property - RPIE Issue,Urinating in Public,0.225484071505,2.74128634819
+Urinating in Public,DOF Property - RPIE Issue,0.225484071505,2.74128634819
+Collection Truck Noise,Overflowing Litter Baskets,0.224976736032,2.73511849874
+Overflowing Litter Baskets,Collection Truck Noise,0.224976736032,2.73511849874
+Investigations and Discipline (IAD),Sweeping/Inadequate,0.224413003815,2.72826501495
+Sweeping/Inadequate,Investigations and Discipline (IAD),0.224413003815,2.72826501495
+PLUMBING,NONCONST,0.223491558334,1.52632734208
+NONCONST,PLUMBING,0.223491558334,1.52632734208
+Home Delivered Meal Complaint,Violation of Park Rules,0.223069101252,2.71192673559
+Violation of Park Rules,Home Delivered Meal Complaint,0.223069101252,2.71192673559
+Traffic Signal Condition,Highway Sign - Damaged,0.22238272294,2.70358220162
+Highway Sign - Damaged,Traffic Signal Condition,0.22238272294,2.70358220162
+Investigations and Discipline (IAD),For Hire Vehicle Report,0.221855652533,2.69717442788
+For Hire Vehicle Report,Investigations and Discipline (IAD),0.221855652533,2.69717442788
+DOF Property - Payment Issue,Taxpayer Advocate Inquiry,0.221306476027,2.69049790281
+Taxpayer Advocate Inquiry,DOF Property - Payment Issue,0.221306476027,2.69049790281
+Dead Tree,DOF Property - City Rebate,0.220723015961,2.68340458085
+DOF Property - City Rebate,Dead Tree,0.220723015961,2.68340458085
+Mosquitoes,Dead/Dying Tree,0.220557791595,2.222758858
+Dead/Dying Tree,Mosquitoes,0.220557791595,2.222758858
+Fire Alarm - Modification,Fire Safety Director - F58,0.22037733679,2.52644811225
+Fire Safety Director - F58,Fire Alarm - Modification,0.22037733679,2.52644811225
+Noise - Helicopter,Collection Truck Noise,0.220068397919,2.67544616725
+Collection Truck Noise,Noise - Helicopter,0.220068397919,2.67544616725
+Advocate-Personal Exemptions,Curb Condition,0.219724300347,2.67126285634
+Curb Condition,Advocate-Personal Exemptions,0.219724300347,2.67126285634
+DOOR/WINDOW,UNSANITARY CONDITION,0.21969779635,0.968336892642
+UNSANITARY CONDITION,DOOR/WINDOW,0.21969779635,0.968336892642
+Radioactive Material,Taxi Complaint,0.219549674796,2.66913987427
+Taxi Complaint,Radioactive Material,0.219549674796,2.66913987427
+Calorie Labeling,Taxi Complaint,0.219549674796,2.66913987427
+Taxi Complaint,Calorie Labeling,0.219549674796,2.66913987427
+FLOORING/STAIRS,PLUMBING,0.219284652149,1.08052522249
+PLUMBING,FLOORING/STAIRS,0.219284652149,1.08052522249
+Derelict Vehicle,Tanning,0.218454288877,2.65582289607
+Tanning,Derelict Vehicle,0.218454288877,2.65582289607
+WATER LEAK,UNSANITARY CONDITION,0.218446754792,0.978526936185
+UNSANITARY CONDITION,WATER LEAK,0.218446754792,0.978526936185
+Request Xmas Tree Collection,Sweeping/Inadequate,0.217780817868,2.64763528055
+Sweeping/Inadequate,Request Xmas Tree Collection,0.217780817868,2.64763528055
+Smoking,Beach/Pool/Sauna Complaint,0.217695265625,2.49570033332
+Beach/Pool/Sauna Complaint,Smoking,0.217695265625,2.49570033332
+Bike/Roller/Skate Chronic,For Hire Vehicle Report,0.21757376478,2.64511806592
+For Hire Vehicle Report,Bike/Roller/Skate Chronic,0.21757376478,2.64511806592
+GENERAL CONSTRUCTION,Non-Residential Heat,0.217337233037,2.06867705144
+Non-Residential Heat,GENERAL CONSTRUCTION,0.217337233037,2.06867705144
+Day Care,Elder Abuse,0.216919502767,2.63716398068
+Elder Abuse,Day Care,0.216919502767,2.63716398068
+DOF Property - Request Copy,DOF Property - City Rebate,0.216823016139,2.63599096002
+DOF Property - City Rebate,DOF Property - Request Copy,0.216823016139,2.63599096002
+Fire Alarm - Addition,Graffiti,0.21672664256,2.63481931372
+Graffiti,Fire Alarm - Addition,0.21672664256,2.63481931372
+Traffic Signal Condition,X-Ray Machine/Equipment,0.2163640176,2.48043865031
+X-Ray Machine/Equipment,Traffic Signal Condition,0.2163640176,2.48043865031
+Vacant Lot,Home Delivered Meal Complaint,0.216342273446,2.63014640802
+Home Delivered Meal Complaint,Vacant Lot,0.216342273446,2.63014640802
+DOF Parking - Request Copy,PLUMBING,0.216312320116,2.62978225522
+PLUMBING,DOF Parking - Request Copy,0.216312320116,2.62978225522
+Noise - Helicopter,Bike Rack Condition,0.216055170745,2.62665600308
+Bike Rack Condition,Noise - Helicopter,0.216055170745,2.62665600308
+Alzheimer's Care,DOF Parking - Tax Exemption,0.216031290692,2.62636568518
+DOF Parking - Tax Exemption,Alzheimer's Care,0.216031290692,2.62636568518
+Advocate - Other,Animal Abuse,0.215822635431,2.62382899239
+Animal Abuse,Advocate - Other,0.215822635431,2.62382899239
+Indoor Air Quality,Overflowing Recycling Baskets,0.215377291406,2.618414794
+Overflowing Recycling Baskets,Indoor Air Quality,0.215377291406,2.618414794
+SAFETY,OEM Disabled Vehicle,0.214599294852,2.60895642598
+OEM Disabled Vehicle,SAFETY,0.214599294852,2.60895642598
+Unsanitary Animal Pvt Property,CONSTRUCTION,0.214517210038,2.60795849305
+CONSTRUCTION,Unsanitary Animal Pvt Property,0.214517210038,2.60795849305
+Emergency Response Team (ERT),Electrical,0.214330002086,2.37021696835
+Electrical,Emergency Response Team (ERT),0.214330002086,2.37021696835
+Public Assembly,Hazardous Materials,0.213985646174,2.60149609084
+Hazardous Materials,Public Assembly,0.213985646174,2.60149609084
+Overflowing Recycling Baskets,For Hire Vehicle Complaint,0.213561696116,2.59634198616
+For Hire Vehicle Complaint,Overflowing Recycling Baskets,0.213561696116,2.59634198616
+Fire Alarm - New System,Indoor Sewage,0.213088069575,2.59058394764
+Indoor Sewage,Fire Alarm - New System,0.213088069575,2.59058394764
+Scaffold Safety,DOF Parking - Tax Exemption,0.212926966031,2.5886253572
+DOF Parking - Tax Exemption,Scaffold Safety,0.212926966031,2.5886253572
+Literature Request,DOF Property - Payment Issue,0.21264006361,2.58513738715
+DOF Property - Payment Issue,Overflowing Recycling Baskets,0.21264006361,2.58513738715
+DOF Property - Payment Issue,Literature Request,0.21264006361,2.58513738715
+Overflowing Recycling Baskets,DOF Property - Payment Issue,0.21264006361,2.58513738715
+Mosquitoes,DRIE,0.212416972352,2.58242519104
+DRIE,Mosquitoes,0.212416972352,2.58242519104
+Non-Emergency Police Matter,Bereavement Support Group,0.212137533169,2.57902795409
+Bereavement Support Group,Non-Emergency Police Matter,0.212137533169,2.57902795409
+Tanning,Building/Use,0.211830675376,2.57529737982
+Building/Use,Tanning,0.211830675376,2.57529737982
+Fire Alarm - New System,Drinking,0.211819332228,2.57515947732
+Drinking,Fire Alarm - New System,0.211819332228,2.57515947732
+FLOORING/STAIRS,WATER LEAK,0.211580228447,1.13323559337
+WATER LEAK,FLOORING/STAIRS,0.211580228447,1.13323559337
+Harboring Bees/Wasps,Vacant Lot,0.211558911868,2.42535199538
+Vacant Lot,Harboring Bees/Wasps,0.211558911868,2.42535199538
+Non-Residential Heat,Broken Parking Meter,0.211544201972,2.33940956558
+Broken Parking Meter,Non-Residential Heat,0.211544201972,2.33940956558
+Unleashed Dog,DOF Property - Property Value,0.211400731627,2.57007040781
+DOF Property - Property Value,Unleashed Dog,0.211400731627,2.57007040781
+Advocate - Other,Elevator,0.21138944761,2.56993322419
+Elevator,Advocate - Other,0.21138944761,2.56993322419
+ELECTRIC,PAINT/PLASTER,0.21088672035,0.99904616718
+PAINT/PLASTER,ELECTRIC,0.21088672035,0.99904616718
+Consumer Complaint,Trans Fat,0.210866443068,2.56357488054
+Trans Fat,Consumer Complaint,0.210866443068,2.56357488054
+Plant,Noise - House of Worship,0.210821608378,2.56302981001
+Noise - House of Worship,Plant,0.210821608378,2.56302981001
+Unsanitary Animal Facility,Animal in a Park,0.210575453465,2.56003722123
+Animal in a Park,Unsanitary Animal Facility,0.210575453465,2.56003722123
+ELEVATOR,Beach/Pool/Sauna Complaint,0.210046481606,2.5536063309
+Beach/Pool/Sauna Complaint,ELEVATOR,0.210046481606,2.5536063309
+Public Toilet,Noise - Park,0.209902301305,2.55185348207
+Noise - Park,Public Toilet,0.209902301305,2.55185348207
+WATER LEAK,DOOR/WINDOW,0.209705201483,1.06438614678
+DOOR/WINDOW,WATER LEAK,0.209705201483,1.06438614678
+Advocate-Personal Exemptions,Dead/Dying Tree,0.209060713118,2.39671216513
+Dead/Dying Tree,Advocate-Personal Exemptions,0.209060713118,2.39671216513
+PAINT - PLASTER,Animal Facility - No Permit,0.208834399063,2.53887063225
+Animal Facility - No Permit,PAINT - PLASTER,0.208834399063,2.53887063225
+Standpipe - Mechanical,Noise,0.208198636253,2.30241186783
+Noise,Standpipe - Mechanical,0.208198636253,2.30241186783
+ELECTRIC,Advocate - RPIE,0.206792641484,2.51404829273
+Advocate - RPIE,ELECTRIC,0.206792641484,2.51404829273
+DOOR/WINDOW,PLUMBING,0.20656483784,0.968782513029
+PLUMBING,DOOR/WINDOW,0.20656483784,0.968782513029
+Miscellaneous Categories,Plumbing,0.205890657157,2.50308256329
+Plumbing,Miscellaneous Categories,0.205890657157,2.50308256329
+Advocate-Personal Exemptions,Vacant Lot,0.205827359854,2.50231303651
+Vacant Lot,Advocate-Personal Exemptions,0.205827359854,2.50231303651
+Overflowing Recycling Baskets,Street Sign - Damaged,0.205144743152,2.4940142337
+Street Sign - Damaged,Overflowing Recycling Baskets,0.205144743152,2.4940142337
+PAINT/PLASTER,GENERAL,0.204829514117,0.990180387434
+GENERAL,PAINT/PLASTER,0.204829514117,0.990180387434
+Building/Use,Emergency Response Team (ERT),0.204612589136,1.93344349365
+Emergency Response Team (ERT),Building/Use,0.204612589136,1.93344349365
+Water Quality,Bridge Condition,0.203375531153,2.47250532326
+Bridge Condition,Water Quality,0.203375531153,2.47250532326
+Snow,OEM Disabled Vehicle,0.203365295996,2.47238089098
+OEM Disabled Vehicle,Snow,0.203365295996,2.47238089098
+HEATING,PLUMBING,0.203149748717,1.10751151248
+PLUMBING,HEATING,0.203149748717,1.10751151248
+Water System,DOF Parking - Request Copy,0.203023152133,2.46822133198
+Water System,Transportation Provider Complaint,0.203023152133,2.46822133198
+DOF Parking - Request Copy,Water System,0.203023152133,2.46822133198
+Transportation Provider Complaint,Water System,0.203023152133,2.46822133198
+Special Projects Inspection Team (SPIT),Public Assembly,0.202890762241,2.46661182315
+Public Assembly,Special Projects Inspection Team (SPIT),0.202890762241,2.46661182315
+UNSANITARY CONDITION,PLUMBING,0.202579531859,0.838352004102
+PLUMBING,UNSANITARY CONDITION,0.202579531859,0.838352004102
+Overgrown Tree/Branches,Lifeguard,0.202560716758,2.46259934824
+Lifeguard,Overgrown Tree/Branches,0.202560716758,2.46259934824
+Municipal Parking Facility,SAFETY,0.202480414108,2.32127435353
+SAFETY,Municipal Parking Facility,0.202480414108,2.32127435353
+Public Toilet,Homeless Encampment,0.202403775639,2.46069136182
+Homeless Encampment,Public Toilet,0.202403775639,2.46069136182
+ELECTRIC,PLUMBING,0.202133133015,0.981460840899
+PLUMBING,ELECTRIC,0.202133133015,0.981460840899
+Bus Stop Shelter Placement,Sweeping/Missed,0.202095827614,2.45694753322
+Sweeping/Missed,Bus Stop Shelter Placement,0.202095827614,2.45694753322
+Drug Activity,DRIE,0.202040418491,2.45627390572
+DRIE,Drug Activity,0.202040418491,2.45627390572
+Derelict Bicycle,Bike Rack Condition,0.20181413268,2.45352287234
+Bike Rack Condition,Derelict Bicycle,0.20181413268,2.45352287234
+Bike/Roller/Skate Chronic,Panhandling,0.201603492768,2.45096205148
+Panhandling,Bike/Roller/Skate Chronic,0.201603492768,2.45096205148
+Other Enforcement,Case Management Agency Complaint,0.201588467681,2.4507793864
+Case Management Agency Complaint,Other Enforcement,0.201588467681,2.4507793864
+ELECTRIC,DOOR/WINDOW,0.201486865379,1.0457918028
+DOOR/WINDOW,ELECTRIC,0.201486865379,1.0457918028
+Water Quality,Bike Rack Condition,0.20139339089,2.44840777168
+Bike Rack Condition,Water Quality,0.20139339089,2.44840777168
+Water Conservation,Poison Ivy,0.201196098748,2.22497271766
+Poison Ivy,Water Conservation,0.201196098748,2.22497271766
+CONSTRUCTION,PAINT - PLASTER,0.200994675419,2.44356045244
+PAINT - PLASTER,CONSTRUCTION,0.200994675419,2.44356045244
+Home Delivered Meal - Missed Delivery,Unsanitary Animal Pvt Property,0.200776202938,2.44090440838
+Unsanitary Animal Pvt Property,Home Delivered Meal - Missed Delivery,0.200776202938,2.44090440838

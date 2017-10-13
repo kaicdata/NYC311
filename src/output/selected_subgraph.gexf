@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="NPMI" type="double" />
+    </attributes>
+    <nodes>
+      <node id="ATF" label="ATF" />
+      <node id="Derelict Bicycle" label="Derelict Bicycle" />
+      <node id="Broken Muni Meter" label="Broken Muni Meter" />
+      <node id="Maintenance or Facility" label="Maintenance or Facility" />
+      <node id="Found Property" label="Found Property" />
+      <node id="Electrical" label="Electrical" />
+      <node id="ELEVATOR" label="ELEVATOR" />
+      <node id="Overflowing Recycling Baskets" label="Overflowing Recycling Baskets" />
+      <node id="Plant" label="Plant" />
+      <node id="Illegal Animal Kept as Pet" label="Illegal Animal Kept as Pet" />
+      <node id="Other Enforcement" label="Other Enforcement" />
+      <node id="For Hire Vehicle Complaint" label="For Hire Vehicle Complaint" />
+      <node id="OUTSIDE BUILDING" label="OUTSIDE BUILDING" />
+      <node id="Request Xmas Tree Collection" label="Request Xmas Tree Collection" />
+      <node id="DOF Property - Payment Issue" label="DOF Property - Payment Issue" />
+      <node id="Smoking" label="Smoking" />
+      <node id="Home Care Provider Complaint" label="Home Care Provider Complaint" />
+      <node id="For Hire Vehicle Report" label="For Hire Vehicle Report" />
+      <node id="Taxpayer Advocate Inquiry" label="Taxpayer Advocate Inquiry" />
+      <node id="Lifeguard" label="Lifeguard" />
+      <node id="Street Sign - Missing" label="Street Sign - Missing" />
+      <node id="APPLIANCE" label="APPLIANCE" />
+      <node id="Water Conservation" label="Water Conservation" />
+      <node id="Pet Shop" label="Pet Shop" />
+      <node id="Municipal Parking Facility" label="Municipal Parking Facility" />
+      <node id="Vacant Lot" label="Vacant Lot" />
+      <node id="Sewer" label="Sewer" />
+      <node id="DOF Property - RPIE Issue" label="DOF Property - RPIE Issue" />
+      <node id="Sweeping/Inadequate" label="Sweeping/Inadequate" />
+      <node id="Special Projects Inspection Team (SPIT)" label="Special Projects Inspection Team (SPIT)" />
+      <node id="Street Sign - Damaged" label="Street Sign - Damaged" />
+      <node id="Urinating in Public" label="Urinating in Public" />
+      <node id="Fire Alarm - New System" label="Fire Alarm - New System" />
+      <node id="DPR Internal" label="DPR Internal" />
+      <node id="Bridge Condition" label="Bridge Condition" />
+      <node id="Advocate - Other" label="Advocate - Other" />
+      <node id="Animal Abuse" label="Animal Abuse" />
+      <node id="DOF Property - Update Account" label="DOF Property - Update Account" />
+      <node id="Fire Alarm - Reinspection" label="Fire Alarm - Reinspection" />
+      <node id="Unsanitary Animal Pvt Property" label="Unsanitary Animal Pvt Property" />
+      <node id="Beach/Pool/Sauna Complaint" label="Beach/Pool/Sauna Complaint" />
+      <node id="Missed Collection (All Materials)" label="Missed Collection (All Materials)" />
+      <node id="Public Payphone Complaint" label="Public Payphone Complaint" />
+      <node id="EAP Inspection - F59" label="EAP Inspection - F59" />
+      <node id="DRIE" label="DRIE" />
+      <node id="Mold" label="Mold" />
+    </nodes>
+    <edges>
+      <edge id="0" source="ATF" target="Vacant Lot">
+        <attvalues>
+          <attvalue for="0" value="0.370269705722" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="ATF" target="Broken Muni Meter">
+        <attvalues>
+          <attvalue for="0" value="0.304022238964" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="ATF" target="Unsanitary Animal Pvt Property">
+        <attvalues>
+          <attvalue for="0" value="0.36114713149" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Derelict Bicycle" target="DOF Property - RPIE Issue">
+        <attvalues>
+          <attvalue for="0" value="0.310885780579" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Broken Muni Meter" target="Municipal Parking Facility">
+        <attvalues>
+          <attvalue for="0" value="0.283852098101" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Maintenance or Facility" target="Home Care Provider Complaint">
+        <attvalues>
+          <attvalue for="0" value="0.287700991674" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Maintenance or Facility" target="Taxpayer Advocate Inquiry">
+        <attvalues>
+          <attvalue for="0" value="0.287700991674" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Found Property" target="EAP Inspection - F59">
+        <attvalues>
+          <attvalue for="0" value="0.646920436789" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Electrical" target="Beach/Pool/Sauna Complaint">
+        <attvalues>
+          <attvalue for="0" value="0.28256731929" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="Electrical" target="Fire Alarm - Reinspection">
+        <attvalues>
+          <attvalue for="0" value="0.331460781481" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Overflowing Recycling Baskets" target="For Hire Vehicle Complaint">
+        <attvalues>
+          <attvalue for="0" value="0.428952745432" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="Plant" target="Animal Abuse">
+        <attvalues>
+          <attvalue for="0" value="0.416756503006" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Plant" target="Special Projects Inspection Team (SPIT)">
+        <attvalues>
+          <attvalue for="0" value="0.524316386349" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="Illegal Animal Kept as Pet" target="DRIE">
+        <attvalues>
+          <attvalue for="0" value="0.355515237494" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="Illegal Animal Kept as Pet" target="Water Conservation">
+        <attvalues>
+          <attvalue for="0" value="0.366449837089" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="Other Enforcement" target="Lifeguard">
+        <attvalues>
+          <attvalue for="0" value="0.369212075246" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="Other Enforcement" target="EAP Inspection - F59">
+        <attvalues>
+          <attvalue for="0" value="0.369212075246" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="OUTSIDE BUILDING" target="For Hire Vehicle Report">
+        <attvalues>
+          <attvalue for="0" value="0.343574068104" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="Request Xmas Tree Collection" target="Advocate - Other">
+        <attvalues>
+          <attvalue for="0" value="0.564127566703" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="EAP Inspection - F59" target="DOF Property - Update Account">
+        <attvalues>
+          <attvalue for="0" value="0.392966485295" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="EAP Inspection - F59" target="Street Sign - Missing">
+        <attvalues>
+          <attvalue for="0" value="0.399594185416" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="DOF Property - Payment Issue" target="Taxpayer Advocate Inquiry">
+        <attvalues>
+          <attvalue for="0" value="0.429444852347" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="Smoking" target="Lifeguard">
+        <attvalues>
+          <attvalue for="0" value="0.467028220994" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="Smoking" target="Bridge Condition">
+        <attvalues>
+          <attvalue for="0" value="0.334339632604" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="Smoking" target="Beach/Pool/Sauna Complaint">
+        <attvalues>
+          <attvalue for="0" value="0.312981540367" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="Smoking" target="DOF Property - RPIE Issue">
+        <attvalues>
+          <attvalue for="0" value="0.287869453878" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="For Hire Vehicle Report" target="Municipal Parking Facility">
+        <attvalues>
+          <attvalue for="0" value="0.554548120079" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="For Hire Vehicle Report" target="Public Payphone Complaint">
+        <attvalues>
+          <attvalue for="0" value="0.355515237494" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="Taxpayer Advocate Inquiry" target="Unsanitary Animal Pvt Property">
+        <attvalues>
+          <attvalue for="0" value="0.466300349925" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="APPLIANCE" target="Municipal Parking Facility">
+        <attvalues>
+          <attvalue for="0" value="0.288659555168" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="Water Conservation" target="Sweeping/Inadequate">
+        <attvalues>
+          <attvalue for="0" value="0.38094690553" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="Pet Shop" target="Special Projects Inspection Team (SPIT)">
+        <attvalues>
+          <attvalue for="0" value="0.33806440549" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="Pet Shop" target="DPR Internal">
+        <attvalues>
+          <attvalue for="0" value="0.368296139221" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="Municipal Parking Facility" target="Animal Abuse">
+        <attvalues>
+          <attvalue for="0" value="0.311603284571" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="Municipal Parking Facility" target="Street Sign - Damaged">
+        <attvalues>
+          <attvalue for="0" value="0.335812193714" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="Sewer" target="Advocate - Other">
+        <attvalues>
+          <attvalue for="0" value="0.291594226764" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="DOF Property - RPIE Issue" target="Urinating in Public">
+        <attvalues>
+          <attvalue for="0" value="0.419830171199" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="Sweeping/Inadequate" target="For Hire Vehicle Complaint">
+        <attvalues>
+          <attvalue for="0" value="0.296264157042" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="Special Projects Inspection Team (SPIT)" target="Mold">
+        <attvalues>
+          <attvalue for="0" value="0.294802837295" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="Urinating in Public" target="ELEVATOR">
+        <attvalues>
+          <attvalue for="0" value="0.285318392748" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="Fire Alarm - New System" target="Animal Abuse">
+        <attvalues>
+          <attvalue for="0" value="0.284067914616" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="Fire Alarm - New System" target="For Hire Vehicle Complaint">
+        <attvalues>
+          <attvalue for="0" value="0.296264157042" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="Advocate - Other" target="Animal Abuse">
+        <attvalues>
+          <attvalue for="0" value="0.416756503006" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="Advocate - Other" target="Missed Collection (All Materials)">
+        <attvalues>
+          <attvalue for="0" value="0.30452550493" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="Unsanitary Animal Pvt Property" target="Beach/Pool/Sauna Complaint">
+        <attvalues>
+          <attvalue for="0" value="0.312253669299" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

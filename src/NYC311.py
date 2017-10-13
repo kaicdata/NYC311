@@ -84,6 +84,19 @@ data_ZipDate = pd.pivot_table(data_ZipDate, index = 'Complaint Type', columns =[
 
 #### PMI feature
 PMI_all = com.PMI_NPMI(data_ZipDate)
+
+# decide PMI cutoffs
+cutoffs = np.array(range(10,40,2))/100.0
+num_types = []
+for cutoff in cutoffs:
+    num_types.append(len(PMI_all.loc[PMI_all.NPMI>cutoff,'Complaint_Type1'].unique()))
+
+plt.plot(cutoffs, num_types)
+plt.ylabel('Num of Complaint Types Left')
+plt.xlabel('NPMI cutoff value')    
+plt.savefig("./output/NPMI_cutoffs.png")
+
+# choose NPMI
 PMI = PMI_all.loc[PMI_all.NPMI>0.2]
 PMI = PMI.sort_values('NPMI', ascending = False)
 
@@ -137,7 +150,7 @@ nx.draw(subgraph, pos=nx.spring_layout(subgraph),node_size =100, with_labels = T
 
 
 
-nx.draw(subgraph,with_labels=True, node_size=160)
+nx.draw(subgraph,with_labels=True, node_size=100)
 plt.savefig("./output/subgraph_select.png")
 nx.draw(subgraph,with_labels=False, node_size=100)
 plt.savefig("./output/subgraph_select_nolabel.png")
@@ -334,11 +347,14 @@ log_perplexity = pd.DataFrame(log_perplexity)
 # takes less than five minutes to run LDA
 
 
-# choose 
+# choose num_topics = 80
 lda = models.LdaModel(corpus_training, num_topics= 80, 
                             id2word=dictionary) 
    
 lda.show_topics(num_topics=80, num_words=3)
+(pd.DataFrame(lda.show_topics(num_topics=80, num_words=3))).to_csv('./output/LDA_topics.csv')
+
+
 # calculate log perplexity to 
 lda.log_perplexity(corpus)
 # get term topics

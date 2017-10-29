@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import common as com
 #from networkx.drawing.nx_agraph import graphviz_layout
 
-ROOT_DIR = "C:\\Disks\\D\\Coatue\\NYC311\src"
+ROOT_DIR = "C:\\Disks\\D\\NYC311\src"
 #ROOT_DIR = os.path.dirname(os.path.realpath(__file__))
 os.chdir(ROOT_DIR)
 
